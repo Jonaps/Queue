@@ -1,4 +1,5 @@
-// 
+// Implement Queue Using Array
+
 public class ArrayQueue<E> implements Queue<E> {
         private static final int CAPACITY = 1000;
         private int f = 0;
